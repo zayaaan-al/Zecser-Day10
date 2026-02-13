@@ -88,7 +88,7 @@ src/
 
 ⚙️ How to Run Locally
 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/zayaaan-al/Zecser-Day10.git)
 
 2️⃣ Navigate into project
 cd YOUR_REPO_NAME
