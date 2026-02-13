@@ -88,7 +88,7 @@ src/
 
 ⚙️ How to Run Locally
 1️⃣ Clone the repository
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/zayaaan-al/Zecser-Day10.git)
+git clone [https://github.com/zayaaan-al/Zecser-Day10.git](https://github.com/zayaaan-al/Zecser-Day10.git)
 
 2️⃣ Navigate into project
 cd YOUR_REPO_NAME
@@ -110,7 +110,7 @@ http://localhost:5173
 🌍 Live Demo
 
 🔗 Live Project:
-👉 [https://YOUR_LIVE_LINK.vercel.app](https://zecser-day10-nbzrozi87-zayans-projects-06c9bd6f.vercel.app/)
+👉 [https://zecser-day10-nbzrozi87-zayans-projects-06c9bd6f.vercel.app/](https://zecser-day10-nbzrozi87-zayans-projects-06c9bd6f.vercel.app/)
 
 
 
