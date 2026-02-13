@@ -110,20 +110,9 @@ http://localhost:5173
 🌍 Live Demo
 
 🔗 Live Project:
-👉 https://YOUR_LIVE_LINK.vercel.app
+👉 [https://YOUR_LIVE_LINK.vercel.app](https://zecser-day10-nbzrozi87-zayans-projects-06c9bd6f.vercel.app/)
 
-📸 Screenshots
-🏠 Homepage
 
-(Add screenshot here)
-
-📄 Job Listing Page
-
-(Add screenshot here)
-
-📱 Mobile View
-
-(Add screenshot here)
 
 📈 What This Project Demonstrates
 
